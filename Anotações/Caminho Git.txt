@@ -1,0 +1,6 @@
+git clone repo
+git status
+git add . or name_file
+git commit -m "comentario"
+git status
+git push origin main
